@@ -1,2 +1,2 @@
-#Hello there!
+# Hello there!
 I have been doing programming for 3 years and 2 years of them is studying ML. Yes, I started at school (I skipped classes and hid with a laptop in places secret from teachers). Now I am studying in absentia at the Faculty of Information Technology at the Shukhov University. At the moment I am engaged in Computer Vision, but there will be projects in other areas, besides, I used to be really interested in NLP.
