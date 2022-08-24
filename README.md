@@ -1,6 +1,2 @@
-![header](https://github.com/MariaSultanbekova/MariaSultanbekova/blob/main/hello.jpg)
-
-
-## I am a beginner machine learning engineer.
-
-I have been programming for 3 years, studying machine learning for 2 years and recently started studying the topic of computer vision. In my repositories, you can find projects on classification, segmentation, image detection, as well as NLP-related projects. In the future, there will be many complex and interesting projects using the newest ideas and models of computer vision
+#Hello there!
+I have been doing programming for 3 years and 2 years of them is studying ML. Yes, I started at school (I skipped classes and hid with a laptop in places secret from teachers). Now I am studying in absentia at the Faculty of Information Technology at the Shukhov University. At the moment I am engaged in Computer Vision, but there will be projects in other areas, besides, I used to be really interested in NLP.
